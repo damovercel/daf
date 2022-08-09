@@ -1,0 +1,5 @@
+python-telegram-bot
+requests
+lxml
+cloudscraper
+mega.py
